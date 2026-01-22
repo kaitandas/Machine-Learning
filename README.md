@@ -4,6 +4,8 @@
 
 This project focuses on building a machine learning model to analyze and predict outcomes based on a given dataset. The main goal is to preprocess data, train multiple models, evaluate their performance, and compare results to select the best-performing approach.
 
+Dataset : https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml
+
 🎯 Objectives
 
 Understand and preprocess the dataset
